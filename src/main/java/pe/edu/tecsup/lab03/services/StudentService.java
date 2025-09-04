@@ -4,6 +4,4 @@ public class StudentService {
     public int countStudents() {
         return students.size();
     }
-
-
 }
